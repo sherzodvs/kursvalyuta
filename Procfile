@@ -1,1 +1,1 @@
-worker: python kursbot.py
+web: python kursbot.py
