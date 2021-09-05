@@ -1,1 +1,1 @@
-worker:python kursbot.py
+worker: python kursbot.py
